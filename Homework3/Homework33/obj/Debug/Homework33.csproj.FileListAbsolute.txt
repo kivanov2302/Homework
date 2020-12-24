@@ -1,0 +1,7 @@
+E:\Homework\Homework\Homework3\Homework33\bin\Debug\Homework33.exe.config
+E:\Homework\Homework\Homework3\Homework33\bin\Debug\Homework33.exe
+E:\Homework\Homework\Homework3\Homework33\bin\Debug\Homework33.pdb
+E:\Homework\Homework\Homework3\Homework33\obj\Debug\Homework33.csprojAssemblyReference.cache
+E:\Homework\Homework\Homework3\Homework33\obj\Debug\Homework33.csproj.CoreCompileInputs.cache
+E:\Homework\Homework\Homework3\Homework33\obj\Debug\Homework33.exe
+E:\Homework\Homework\Homework3\Homework33\obj\Debug\Homework33.pdb
