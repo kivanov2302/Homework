@@ -1,0 +1,17 @@
+E:\Homework\Homework\Homework5\Homework55\bin\Debug\Homework55.exe.config
+E:\Homework\Homework\Homework5\Homework55\bin\Debug\Homework55.exe
+E:\Homework\Homework\Homework5\Homework55\bin\Debug\Homework55.pdb
+E:\Homework\Homework\Homework5\Homework55\obj\Debug\Homework55.csprojAssemblyReference.cache
+E:\Homework\Homework\Homework5\Homework55\obj\Debug\Homework55.csproj.CoreCompileInputs.cache
+E:\Homework\Homework\Homework5\Homework55\obj\Debug\Homework55.exe
+E:\Homework\Homework\Homework5\Homework55\obj\Debug\Homework55.pdb
+E:\Homework\Homework\Homework5\Homework55\bin\Debug\System.Text.Json.dll
+E:\Homework\Homework\Homework5\Homework55\bin\Debug\System.Memory.dll
+E:\Homework\Homework\Homework5\Homework55\bin\Debug\System.Text.Encodings.Web.dll
+E:\Homework\Homework\Homework5\Homework55\bin\Debug\System.Numerics.Vectors.dll
+E:\Homework\Homework\Homework5\Homework55\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Homework\Homework\Homework5\Homework55\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Homework\Homework\Homework5\Homework55\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Homework\Homework\Homework5\Homework55\obj\Debug\Homework55.exe.config
+E:\Homework\Homework\Homework5\Homework55\obj\Debug\Homework55.csproj.CopyComplete
+E:\Homework\Homework\Homework5\Homework55\bin\Debug\System.Buffers.dll

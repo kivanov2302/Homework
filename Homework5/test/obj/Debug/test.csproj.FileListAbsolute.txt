@@ -1,0 +1,17 @@
+E:\Homework\Homework\Homework5\test\bin\Debug\test.exe.config
+E:\Homework\Homework\Homework5\test\bin\Debug\test.exe
+E:\Homework\Homework\Homework5\test\bin\Debug\test.pdb
+E:\Homework\Homework\Homework5\test\bin\Debug\System.Memory.dll
+E:\Homework\Homework\Homework5\test\bin\Debug\System.Text.Json.dll
+E:\Homework\Homework\Homework5\test\bin\Debug\System.Numerics.Vectors.dll
+E:\Homework\Homework\Homework5\test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Homework\Homework\Homework5\test\bin\Debug\System.Text.Encodings.Web.dll
+E:\Homework\Homework\Homework5\test\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Homework\Homework\Homework5\test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Homework\Homework\Homework5\test\obj\Debug\test.exe.config
+E:\Homework\Homework\Homework5\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\Homework\Homework\Homework5\test\obj\Debug\test.csproj.CopyComplete
+E:\Homework\Homework\Homework5\test\obj\Debug\test.exe
+E:\Homework\Homework\Homework5\test\obj\Debug\test.pdb
+E:\Homework\Homework\Homework5\test\bin\Debug\System.Buffers.dll
+E:\Homework\Homework\Homework5\test\obj\Debug\test.csprojAssemblyReference.cache
