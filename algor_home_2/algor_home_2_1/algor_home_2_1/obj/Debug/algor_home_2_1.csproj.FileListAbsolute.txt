@@ -1,0 +1,7 @@
+E:\Homework\Homework\algor_home_2\algor_home_2_1\algor_home_2_1\bin\Debug\algor_home_2_1.exe.config
+E:\Homework\Homework\algor_home_2\algor_home_2_1\algor_home_2_1\bin\Debug\algor_home_2_1.exe
+E:\Homework\Homework\algor_home_2\algor_home_2_1\algor_home_2_1\bin\Debug\algor_home_2_1.pdb
+E:\Homework\Homework\algor_home_2\algor_home_2_1\algor_home_2_1\obj\Debug\algor_home_2_1.csprojAssemblyReference.cache
+E:\Homework\Homework\algor_home_2\algor_home_2_1\algor_home_2_1\obj\Debug\algor_home_2_1.csproj.CoreCompileInputs.cache
+E:\Homework\Homework\algor_home_2\algor_home_2_1\algor_home_2_1\obj\Debug\algor_home_2_1.exe
+E:\Homework\Homework\algor_home_2\algor_home_2_1\algor_home_2_1\obj\Debug\algor_home_2_1.pdb
